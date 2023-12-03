@@ -46,7 +46,10 @@ EDA involved exploring the courses data to answer key questions such as:
 The analysis results are summarised as follows:
 1. Udemy has a large number of subscribers with those at all levels being the highest.
 2. The Learn HTML5 Programming From Scratch is the trending course as it has the highest number of subscribers.
-3. Likeweise, Web Development subject attracts more people as it has the highest number of subscibers.   
+3. Likeweise, Web Development subject attracts more people as it has the highest number of subscibers.
+
+![Udemy](https://github.com/Ofovwe-Zita-Adjekota/Udemy-Courses-Data-Analysis-/assets/151509091/050b16f6-35fb-4db6-81f3-2c5df76226bf)
+
 
 ### Recommendations
 
