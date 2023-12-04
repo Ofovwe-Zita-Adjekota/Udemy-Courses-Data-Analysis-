@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
+- [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Explanatory Data Analysis](#explanatory-data-analysis)
@@ -15,7 +15,7 @@
 
 This data analysis project aims to provide insights into the total performance of an online education company from the period of 2011 to 2017. By analyzing various aspects of the course data, I sought to identify trends, gain deeper understanding of the compnay's performance over the period and make data-driven recommendations.
 
-### Data Sources
+### Data Source
 
 The primary dataset used for this analysis is the "data-udemy-courses" file from Kaggle.com, containing detailed information about the courses offered, subscribers and their levels, amongst other information in various sheets and columns.
 
