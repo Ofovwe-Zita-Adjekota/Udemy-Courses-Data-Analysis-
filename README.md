@@ -28,7 +28,7 @@ The primary dataset used for this analysis is the "data-udemy-courses" file from
 
   ### Data Cleaning
 
-In the initial data preparation stage, i carried out the folowing tasks:
+In the initial data preparation stage, I carried out the following tasks:
 1. Data loading and inspection,
 2. Handling missing values,
 3. Data cleaning and formatting
@@ -58,6 +58,6 @@ Based on the analysis, I recommend the following:
 2. Similarly, courses with very minimal subscribers should be promoted for more subscribers.
 
 ### Limitation
-- Basically, only a few of the data from the dataset was worthy to create insights from.
+- Basically, only a few data from the dataset was worthy to create insights from.
 
 
